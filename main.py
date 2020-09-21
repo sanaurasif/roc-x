@@ -174,7 +174,7 @@ while optcount<2:
 						
 						
 		elif opt==2:
-			import bforce
+			novalue=input(red+"\nServer Upgrading. This Service will be added soon. Press Enter Now")
 			
 
 #EXIT
